@@ -13,10 +13,7 @@
     "url": "git+https://github.com/dnhieu89/cordovar-expense-ocr.git"
   },
   "keywords": [
-    "cordova",
-    "plugin",
-    "ecosystem:cordova",
-    
+    "ecosystem:cordova"
   ],
   "author": "ThanhLN",
   "license": "ISC",
