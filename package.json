@@ -1,7 +1,7 @@
 {
   "name": "cordovar-expense-ocr",
-  "version": "0.1.1",
-  "description": "",
+  "version": "0.1.0",
+  "description": "A sample for a new cordova plugin",
   "cordova": {
     "id": "cordovar-expense-ocr",
     "platforms": [
@@ -13,9 +13,12 @@
     "url": "git+https://github.com/dnhieu89/cordovar-expense-ocr.git"
   },
   "keywords": [
-    "ecosystem:cordova"
+    "cordova",
+    "plugin",
+    "ecosystem:cordova",
+    
   ],
-  "author": "",
+  "author": "ThanhLN",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dnhieu89/cordovar-expense-ocr/issues"
