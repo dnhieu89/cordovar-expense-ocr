@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-ExpenseOCR",
+  "version": "0.1.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-ExpenseOCR",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnhieu89/cordovar-expense-ocr.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC"
+}
