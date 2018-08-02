@@ -1,9 +1,9 @@
 {
-  "name": "cordova.plugins.ExpenseOCR",
+  "name": "cordova.plugin.ExpenseOCR",
   "version": "0.1.0",
   "description": "A sample for a new cordova plugin",
   "cordova": {
-    "id": "cordova.plugins.ExpenseOCR",
+    "id": "cordova.plugin.ExpenseOCR",
     "platforms": [
       "ios"
     ]
