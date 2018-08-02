@@ -11,8 +11,8 @@
 			</feature>
 		</config-file>
 		<source-file src="src/ios/ExpenseOCR.m" />
-		<header-file src="src/ios/OCR/IteamScan.h" />
-		<source-file src="src/ios/OCR/IteamScan.m" />
+		<header-file src="src/ios/OCR/ItemScan.h" />
+		<source-file src="src/ios/OCR/ItemScan.m" />
 		<header-file src="src/ios/OCR/OCRViewController.h" />
 		<source-file src="src/ios/OCR/OCRViewController.m" />
 		<source-file src="src/ios/OCR/OCRViewController.xib" />
