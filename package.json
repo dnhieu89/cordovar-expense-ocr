@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-ExpenseOCR",
+  "name": "cordovar-expense-ocr",
   "version": "0.1.1",
   "description": "",
   "cordova": {
-    "id": "cordova-plugin-ExpenseOCR",
+    "id": "cordovar-expense-ocr",
     "platforms": [
       "ios"
     ]
@@ -16,5 +16,9 @@
     "ecosystem:cordova"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnhieu89/cordovar-expense-ocr/issues"
+  },
+  "homepage": "https://github.com/dnhieu89/cordovar-expense-ocr#readme"
 }
